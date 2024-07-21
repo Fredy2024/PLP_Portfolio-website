@@ -7,16 +7,28 @@
     background: rgb(212, 178, 65);
     padding: 20px;
     text-align: center;
-    font-size: 50px;}
     
-  .introduction-section {
+    font-size: 50px; color: rgb(12, 12, 170)
+}
+ .introduction-section {
     background:lightcyan;
     line-height: 25px;
     padding: 10px;
   }
+
+  p {
+
+    color: #116466;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 0 0 1px 0;
+    background:lightcyan;
+    margin: 0;
+    font-size: 18px;
+  }
   h1 {
     font-size: 30px;
-    color: #116466;
+    color: rgb(12, 12, 170) ;
     text-align: center;
     padding: 0 0 1px 0;
     margin: 0;
@@ -36,7 +48,7 @@
     line-height: 30px;
   }
   .skills-section {
-    background: #92b98f;
+    background: lightcyan ;
     line-height: 25px;
     padding: 10px;
     justify-content: space-around;
