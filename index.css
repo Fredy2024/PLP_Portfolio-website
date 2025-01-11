@@ -12,9 +12,21 @@
 }
  .introduction-section {
     background:lightcyan;
-    line-height: 25px;
+    line-height: 25px; 
     padding: 10px;
   }
+ 
+
+
+  header{
+  background: rgb(217, 166, 50);
+  line-height: 25px;
+  padding: 10px;
+  font-size: 22px;
+
+}
+
+
 
   p {
 
@@ -48,7 +60,7 @@
     line-height: 30px;
   }
   .skills-section {
-    background: lightcyan ;
+    background: lightcyanf ;
     line-height: 25px;
     padding: 10px;
     justify-content: space-around;
